@@ -1,4 +1,4 @@
-# Comeon Frontend Test Project
+# Next.js App routing with Json server for Game play example project
 
 A React/Next.js application for gaming platform testing with user authentication, game browsing, and responsive design.
 
