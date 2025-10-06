@@ -55,8 +55,8 @@ A React/Next.js application for gaming platform testing with user authentication
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd comeon-frontend-test
+   git clone https://github.com/luckymanM3/next-bestpractices-game-play-example.git
+   cd next-bestpractices-game-play-example
    ```
 
 2. **Install dependencies**
